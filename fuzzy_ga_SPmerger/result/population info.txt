@@ -1,0 +1,6 @@
+{'Population Info': {'Type': 'Population', 'Population Encoding:': 'RI', 'Population ChromNum': 1, 'Population Field:': array([[1.e-09, 1.e-08, 1.e-08, 1.e-07, 1.e-07, 1.e-08, 1.e-08, 1.e-07,
+        1.e-07, 1.e-07, 1.e-07, 1.e-07],
+       [1.e+00, 1.e+00, 1.e+00, 1.e+00, 1.e+00, 1.e+00, 1.e+00, 1.e+00,
+        1.e+00, 1.e+00, 1.e+00, 1.e+00],
+       [0.e+00, 0.e+00, 0.e+00, 0.e+00, 0.e+00, 0.e+00, 0.e+00, 0.e+00,
+        0.e+00, 0.e+00, 0.e+00, 0.e+00]]), 'Population size:': 20}}
